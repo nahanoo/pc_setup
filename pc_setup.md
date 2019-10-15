@@ -5,7 +5,7 @@ This file allows to easily setup a new OS used for genomics and other applicatio
 [VS Code](https://code.visualstudio.com/)
 
 ## VS code extensions
-[Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+[Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)  
 [Spell check](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 ## Linux distro
