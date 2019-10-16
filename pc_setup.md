@@ -23,7 +23,13 @@ code .
 [ConEmu](https://www.fosshub.com/ConEmu.html)
 ## Miniconda itself and packages
 [Miniconda Python 3.7](https://docs.conda.io/en/latest/miniconda.html)
-[IPython](conda install -c anaconda ipython)
+IPython: conda install -c anaconda ipython  
+Numpy: conda install -c anaconda numpy
+
+
 
 ## apt-get installs
 
+ 
+## Genomic packages
+https://github.com/lh3/minimap2
