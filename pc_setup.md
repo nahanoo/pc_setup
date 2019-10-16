@@ -16,10 +16,14 @@ Before installing WSL permissions in windows need to be set. Run following comma
 ```
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```  
+Run VS code in WSL mode.  
+```
+code .
+```
 [ConEmu](https://www.fosshub.com/ConEmu.html)
 ## Miniconda itself and packages
 [Miniconda Python 3.7](https://docs.conda.io/en/latest/miniconda.html)
-
+[IPython](conda install -c anaconda ipython)
 
 ## apt-get installs
 
