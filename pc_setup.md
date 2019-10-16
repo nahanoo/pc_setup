@@ -15,10 +15,11 @@ This file allows to easily setup a new OS used for genomics and other applicatio
 Before installing WSL permissions in windows need to be set. Run following command as admin in power shell.
 ```
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
-```
-
+```  
+[ConEmu](https://www.fosshub.com/ConEmu.html)
 ## Miniconda itself and packages
 [Miniconda Python 3.7](https://docs.conda.io/en/latest/miniconda.html)
 
 
 ## apt-get installs
+
