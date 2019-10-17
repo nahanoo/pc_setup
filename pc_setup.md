@@ -29,6 +29,8 @@ Numpy: conda install -c anaconda numpy
 
 
 ## apt-get installs
+Update WSL before us.  
+```sudo apt-get install build-essential```  
 Installing make, used for installing github repos.  
 ```sudo apt-get install build-essential```  
  
