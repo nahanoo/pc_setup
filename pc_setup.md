@@ -29,7 +29,8 @@ Numpy: conda install -c anaconda numpy
 
 
 ## apt-get installs
-
+Installing make, used for installing github repos.  
+```sudo apt-get install build-essential```  
  
 ## Genomic packages
 https://github.com/lh3/minimap2
