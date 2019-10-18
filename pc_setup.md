@@ -28,9 +28,9 @@ Terminal emulator:
 IPython:  
 ```conda install -c anaconda ipython```    
 Numpy:  
-```conda install -c anaconda numpy```
-
-
+```conda install -c anaconda numpy```  
+Jupyter:  
+```conda install -c anaconda jupyter```   
 
 ## apt-get installs
 Update WSL before us.  
