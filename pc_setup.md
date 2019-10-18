@@ -1,6 +1,7 @@
 # Setup 
 This file allows to easily setup a new OS used for genomics and other applications
 ## OS independant installations
+[Notable](https://github.com/notable/notable)  
 [Zotero](https://www.zotero.org/download/)  
 [VS Code](https://code.visualstudio.com/)
 
@@ -20,6 +21,7 @@ Run VS code in WSL mode.
 ```
 code .
 ```
+Terminal emulator:  
 [ConEmu](https://www.fosshub.com/ConEmu.html)
 ## Miniconda itself and packages
 [Miniconda Python 3.7](https://docs.conda.io/en/latest/miniconda.html)
