@@ -31,6 +31,8 @@ Numpy:
 ```conda install -c anaconda numpy```  
 Jupyter:  
 ```conda install -c anaconda jupyter```   
+Matplotlib:  
+```conda install -c conda-forge matplotlib```  
 
 ## apt-get installs
 Update WSL before us.  
