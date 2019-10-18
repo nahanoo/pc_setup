@@ -36,7 +36,7 @@ Matplotlib:
 
 ## apt-get installs
 Update WSL before us.  
-```sudo apt-get install build-essential```  
+```sudo apt-get update```  
 Installing make, used for installing github repos.  
 ```sudo apt-get install build-essential```  
  
