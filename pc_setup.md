@@ -23,8 +23,10 @@ code .
 [ConEmu](https://www.fosshub.com/ConEmu.html)
 ## Miniconda itself and packages
 [Miniconda Python 3.7](https://docs.conda.io/en/latest/miniconda.html)
-IPython: conda install -c anaconda ipython  
-Numpy: conda install -c anaconda numpy
+IPython:  
+```conda install -c anaconda ipython```    
+Numpy:  
+```conda install -c anaconda numpy```
 
 
 
