@@ -38,12 +38,16 @@ Jupyter:
 ```conda install -c anaconda jupyter```   
 Matplotlib:  
 ```conda install -c conda-forge matplotlib```  
+Zlib for C compiling:  
+conda install -c anaconda zlib
 
 ## apt-get installs
 Update WSL before us.  
 ```sudo apt-get update```  
 Installing make, used for installing github repos.  
 ```sudo apt-get install build-essential```  
+Zlib for C compiling:
+```sudo apt-get install libz-dev```  
  
 ## Genomic packages
 https://github.com/lh3/minimap2
