@@ -22,7 +22,12 @@ Run VS code in WSL mode.
 code .
 ```
 Terminal emulator:  
-[ConEmu](https://www.fosshub.com/ConEmu.html)
+[ConEmu](https://www.fosshub.com/ConEmu.html)  
+[vcxsrv](https://sourceforge.net/projects/vcxsrv/)  
+Make sure to save correct display variable by adding following variable to your bashrc:  
+```DISPLAY=:0.0```  
+
+
 ## Miniconda itself and packages
 [Miniconda Python 3.7](https://docs.conda.io/en/latest/miniconda.html)
 IPython:  
