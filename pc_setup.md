@@ -13,7 +13,9 @@ This file allows to easily setup a new OS used for genomics and other applicatio
 [Lubuntu](https://lubuntu.net/)
 
 ## Important WSL commands
-Before installing WSL permissions in windows need to be set. Run following command as admin in power shell.
+Before installing WSL permissions in windows need to be set. Run following command as admin in power shell.  
+WSL home directory location in Windows (make sure tho show hidden files):  
+```%LOCALAPPDATA%\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs```  
 ```
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```  
