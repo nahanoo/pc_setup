@@ -41,7 +41,7 @@ Jupyter:
 Matplotlib:  
 ```conda install -c conda-forge matplotlib```  
 Zlib for C compiling:  
-```conda install -c anaconda zlib  ```
+```conda install -c anaconda zlib  ```  
 Pysam:  
 ```conda install -c bioconda pysam```  
 Biopython:  
